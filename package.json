@@ -64,5 +64,9 @@
     "vite": "^2.9.5",
     "yarn": "^1.22.18"
   },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
   "homepage": "https://github.com/andrerpena/react-mde.git#readme"
 }
